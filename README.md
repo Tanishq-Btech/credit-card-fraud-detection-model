@@ -49,5 +49,14 @@ The trained model is saved using Pickle and integrated with a Flask backend. Use
 
 ---
 
-## 📁 Project Structure
+## ---
+
+## 📸 Screenshots
+
+### Test Case 1
+![Test Case 1](screenshots/Test%20case%201.png)
+
+### Test Case 2
+![Test Case 2](screenshots/Test%20case%202.png)
+
 
